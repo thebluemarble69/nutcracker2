@@ -1,0 +1,16 @@
+Groups:
+  Admin:
+    Permission: nte.admin
+    Prefix: '&4Admin &c'
+    Suffix: ''
+    SortPriority: 1
+  mvp:
+    Permission: nte.mvp
+    Prefix: '&e&lMVP&b+ &2'
+    Suffix: ''
+    SortPriority: 2
+  vip:
+    Permission: nte.vip
+    Prefix: '&a&lVIP &2'
+    Suffix: ''
+    SortPriority: 3

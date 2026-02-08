@@ -1,0 +1,163 @@
+# Citizens NPC Storage
+
+
+
+
+last-created-npc-id: 1
+npc:
+  '1':
+    name: '&a&lBedwars &bSolos'
+    uuid: 5d8d0203-6e5d-4c08-b8b1-ba54d8c31e59
+    traits:
+      rotationtrait:
+        globalParameters: {}
+      scoreboardtrait: {}
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1
+        hideErrorMessages: false
+        persistSequence: false
+        commands:
+          '0':
+            command: bw gui Solo
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 1
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+          '1':
+            command: bw gui Solo
+            hand: LEFT
+            player: true
+            op: false
+            cooldown: 1
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+      inventory: {}
+      location:
+        bodyYaw: 156.89592
+        world: world
+        x: '-2.5081'
+        y: '68.0'
+        z: '-4.5236'
+        yaw: '156.8959'
+        pitch: '52.1335'
+      type: PLAYER
+      spawned: true
+      hologramtrait:
+        lineHeight: -1.0
+        viewRange: -1
+      lookclose:
+        range: '10.0'
+        disablewhilenavigating: true
+        enabled: true
+        enableRandomLook: false
+        headonly: false
+        linkedbody: false
+        perplayer: false
+        randomLookDelay: 60
+        randomSwitchTargets: false
+        realisticlooking: false
+        targetnpcs: false
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      owner:
+        uuid: 28f8b810-2600-31ce-8e55-da2165913044
+      skintrait:
+        fetchDefaultSkin: true
+        updateSkins: false
+    traitnames: rotationtrait,location,commandtrait,scoreboardtrait,type,inventory,mounttrait,hologramtrait,owner,spawned,lookclose,skintrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: false
+  '0':
+    name: '&a&lBedwars &eDoubles'
+    uuid: 1a5f6a26-3a73-4c55-be6b-c1b68f5516ab
+    traits:
+      rotationtrait:
+        globalParameters: {}
+      scoreboardtrait: {}
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1
+        hideErrorMessages: false
+        persistSequence: false
+        commands:
+          '0':
+            command: bw gui Doubles
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 1
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+          '1':
+            command: bw gui Doubles
+            hand: LEFT
+            player: true
+            op: false
+            cooldown: 1
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+      inventory: {}
+      location:
+        bodyYaw: -169.90807
+        world: world
+        x: '-2.556'
+        y: '68.0'
+        z: '5.5743'
+        yaw: '-169.9081'
+        pitch: '5.6331'
+      type: PLAYER
+      spawned: true
+      hologramtrait:
+        lineHeight: -1.0
+        viewRange: -1
+      lookclose:
+        range: '10.0'
+        disablewhilenavigating: true
+        enabled: true
+        enableRandomLook: false
+        headonly: false
+        linkedbody: false
+        perplayer: false
+        randomLookDelay: 60
+        randomSwitchTargets: false
+        realisticlooking: false
+        targetnpcs: false
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      owner:
+        uuid: 28f8b810-2600-31ce-8e55-da2165913044
+      skintrait:
+        fetchDefaultSkin: true
+        updateSkins: false
+    traitnames: rotationtrait,location,commandtrait,scoreboardtrait,type,inventory,mounttrait,hologramtrait,owner,spawned,lookclose,skintrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: false

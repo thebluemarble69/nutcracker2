@@ -1,0 +1,26 @@
+permission:
+    default: op
+permissions:
+    default: op
+minecraft.permission:
+    default: op
+minecraft.permissions:
+    default: op
+luckperms.permission:
+    default: op
+luckperms.permissions:
+    default: op
+luckperm.permission:
+    default: op
+luckperm.permissions:
+    default: op
+nte:
+    default: op
+bedwars:
+    default: op
+bedwars1058:
+    default: op
+minecraft.bedwars1058:
+    default: op
+minecraft.bedwars:
+    default: op
